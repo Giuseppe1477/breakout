@@ -17,3 +17,8 @@ or let the ball past the paddle, press (E) to exit or (R) to replay the game
 When you start the game, to earn points you have to make the ball hit the
 bricks using the paddle at the bottom of the screen. You only get one life
 so make sure to stay alert. The goal is 450pts to win or all the bricks
+
+## Pictures
+![readmePic1](https://user-images.githubusercontent.com/11039118/149034104-f9153371-1ccd-44d1-b17f-97d7d465d739.JPG)
+![readmePic2](https://user-images.githubusercontent.com/11039118/149034113-a2cb1971-1105-4e8e-a51b-c718a9389204.JPG)
+![readmePic3](https://user-images.githubusercontent.com/11039118/149034121-d150de68-4a4d-4e43-b895-fb425ab0a855.JPG)
